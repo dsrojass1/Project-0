@@ -1,0 +1,7 @@
+ROBOT_R
+VARS nom , x , y , one ;
+
+ [
+ goTo : 3 , 3 
+ 
+ ]
